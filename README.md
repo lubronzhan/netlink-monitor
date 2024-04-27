@@ -1,2 +1,2 @@
-# rtmon-log-reader
-Read the binary output from rtmon command
+# Netlink monitor
+Log netlink message in readable format.
